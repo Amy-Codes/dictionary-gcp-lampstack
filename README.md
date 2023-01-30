@@ -1,5 +1,5 @@
 # GCP VM Lampstack
-## Basic LAMP stack environment built using the following:
+## dictionary.amycode.co.uk is a basic LAMP stack environment built using the following:
 - Linux
 - Apache
 - MySQL
